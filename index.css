@@ -1,0 +1,262 @@
+#nav {
+    margin-left: 700px;
+}
+
+#sliderf {
+    position: relative;
+    top: -200px;
+}
+
+#blank {
+    background-color: black;
+    width: 1550px;
+    height: 753px;
+    position: relative;
+    left: -233px;
+    top: 200px;
+    opacity: 50%;
+}
+
+#gr {
+    color: #fed547;
+    margin-left: 100px;
+    margin-top: -10px;
+
+}
+
+#con {
+    margin-top: -20px;
+    margin-left: 100px;
+}
+
+#aboutimg {
+    width: 600px;
+    height: 550px;
+    margin-top: 100px;
+    margin-left: px;
+
+}
+
+#abouttext {
+    margin-top: 240px;
+    margin-left: px;
+}
+
+#our {
+    margin-top: 100px;
+}
+
+#ourf {
+    margin-top: 80px;
+}
+
+#quality {
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+    height: 350px;
+    margin-left: 30px;
+    width: 380px;
+}
+
+#sus {
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+    height: 350px;
+    margin-left: 30px;
+    width: 380px;
+}
+
+#inte {
+    background-color: black;
+    border-radius: 5px;
+    color: aliceblue;
+    height: 350px;
+    margin-left: 30px;
+    width: 380px;
+}
+
+#lap {
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+}
+
+#quality h2 {
+    margin-top: 40px;
+}
+
+#book {
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+
+}
+
+#int {
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+}
+
+#sus h2 {
+    margin-top: 40px;
+}
+
+#inte h2 {
+    margin-top: 40px;
+}
+
+#prof {
+    background-color: white;
+    height: 820px;
+    width: 400px;
+    box-shadow: 5px 10px 8px #888888;
+    border: 15px solid white;
+    border-radius: 5px;
+    margin-left: 29px;
+
+}
+
+#prof img {
+    position: relative;
+    left: -10px;
+    height: 550px;
+    width: 370px;
+}
+#prof h2{
+    margin-top: 30px;
+}
+#pros {
+    background-color: white;
+    height: 820px;
+    width: 400px;
+    box-shadow: 5px 10px 8px #888888;
+    border: 15px solid white;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+#pros img {
+    position: relative;
+    left: -10px;
+    height: 550px;
+    width: 370px;
+}
+#pros h2{
+    margin-top: 30px;
+}
+#prot {
+    background-color: white;
+    height: 820px;
+    width: 400px;
+    box-shadow: 5px 10px 8px #888888;
+    border: 15px solid white;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+#prot img {
+    position: relative;
+    left: -10px;
+    height: 550px;
+    width: 370px;
+}
+#prot h2{
+    margin-top: 30px;
+}
+#jack{
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    height: 360px;
+    width: 300px;
+    margin-left: 20px;
+}
+#jack img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#jack h2{
+    margin-top: 10px;
+}
+#jack i{
+    font-size: 20px;
+   position: relative;
+   top: 10px;
+}
+#wilson{
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    height: 360px;
+    width: 300px;
+    margin-left: 20px;
+}
+#wilson img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#wilson h2{
+    margin-top: 10px;
+}
+#wilson i{
+    font-size: 20px;
+   position: relative;
+   top: 10px;
+}
+#jacw{
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    height: 360px;
+    width: 300px;
+    margin-left: 20px;
+}
+#jacw img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#jacw h2{
+    margin-top: 10px;
+}
+#jacw i{
+    font-size: 20px;
+   position: relative;
+   top: 10px;
+}
+#jaci{
+    background-color: white;
+    box-shadow: 5px 10px 8px #888888;
+    height: 360px;
+    width: 300px;
+    margin-left: 20px;
+}
+#jaci img{
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#jaci h2{
+    margin-top: 10px;
+}
+#jaci i{
+    font-size: 20px;
+   position: relative;
+   top: 10px;
+}
+#us{
+   margin-left: -0px;
+   margin-top: 200px;
+}
+#btnlast{
+    width: 1270px;
+}
+#input{
+    margin-top: 70px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+  }
